@@ -41,7 +41,7 @@ npm install -g @angular/cli@6.1.1
 
 ```shell
 git clone https://github.com/GiAraki/Countdown-Timer
-cd intern-angular
+cd .\countdown-timer\
 ```
 
 ### Install npm packages
