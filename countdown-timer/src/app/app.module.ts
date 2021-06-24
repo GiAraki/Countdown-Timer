@@ -5,10 +5,12 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AngularMaterialModule } from './angular-material.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { FlipCardComponent } from './shared/flip-card/flip-card.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    FlipCardComponent
   ],
   imports: [
     BrowserModule,
