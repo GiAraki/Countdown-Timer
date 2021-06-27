@@ -56,12 +56,12 @@
 }
 
 .flip-card-front,.up {
-  background-color: #bbb;
+  background-color: #101822;
   color: black;
 }
 
 .flip-card-back,.down {
-  background-color: #2980b9;
+  background-color: #101822;
   color: black;
 }
 .flip-card-back {
