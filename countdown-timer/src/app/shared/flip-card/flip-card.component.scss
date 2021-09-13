@@ -3,9 +3,12 @@
 .content {
   font-family: "Droid Sans Mono", monospace;
   height: 60px;
-  display:inline-block;
-  margin-left:10px;
+  display: inline-block;
+  margin-left: 80px;
 }
+
+
+
 .flip {
   position: relative;
   height: 60px;
@@ -55,13 +58,15 @@
   overflow: hidden;
 }
 
-.flip-card-front,.up {
-  background-color: #101822;
+.flip-card-front,
+.up {
+  background-color: #bbb;
   color: black;
 }
 
-.flip-card-back,.down {
-  background-color: #101822;
+.flip-card-back,
+.down {
+  background-color: #F7855B;
   color: black;
 }
 .flip-card-back {
